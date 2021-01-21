@@ -125,6 +125,10 @@
                                         }
                                         
                                         body {
+                                            background-color: rgb(234, 238, 240);
+                                        }
+                                        
+                                        body {
                                             font-family: "Rubik", sans-serif;
                                             font-weight: normal;
                                             font-style: normal;
@@ -153,11 +157,11 @@
                                         }
                                         
                                         .bg-img-1 {
-                                            background-image: url(../img/gallery/water-1330252_1280.jpg);
+                                            background-image: url(../img/gallery/freeimg_47841037freejpg850.jpg);
                                         }
                                         
                                         .bg-img-2 {
-                                            background-image: url(../img/background-img/bg-img-3.jpg);
+                                            background-image: url(../img/gallery/footer_bg.jpg);
                                         }
                                         
                                         .cta-bg-1 {
@@ -404,7 +408,7 @@
                                             padding: 27px 44px;
                                             text-transform: capitalize;
                                             font-family: "Rubik", sans-serif;
-                                            color: #fff;
+                                            color: rgb(247, 246, 246);
                                             cursor: pointer;
                                             display: inline-block;
                                             font-size: 14px;
@@ -501,7 +505,7 @@
                                             height: 60px;
                                             padding: 10px 20px;
                                             border: 0;
-                                            color: rgb(255, 249, 249);
+                                            color: rgb(255, 254, 254);
                                             text-transform: capitalize;
                                             cursor: pointer;
                                             font-size: 16px;
@@ -509,9 +513,8 @@
                                         }
                                         
                                         .border-btn {
-                                            border: 1px solid #e3c6c6;
-                                            color: #464d65;
-                                            background: none;
+                                            color: #ecedf0;
+                                            background: rgb(228, 74, 3);
                                             border-radius: 5px;
                                             text-transform: capitalize;
                                             padding: 25px 57px;
@@ -2626,7 +2629,7 @@
                                         }
                                         
                                         .main-header .header-sticky.sticky-bar {
-                                            background: #fff;
+                                            background: rgb(245, 52, 4);
                                         }
                                         
                                         .header-sticky.sticky-bar .main-menu ul>li>a {
@@ -2660,7 +2663,7 @@
                                         }
                                         
                                         .mobile_menu .slicknav_menu .slicknav_icon-bar {
-                                            background-color: #ec5b53 !important;
+                                            background-color: #f63e10 !important;
                                         }
                                         
                                         .mobile_menu .slicknav_btn {
@@ -2672,7 +2675,7 @@
                                         }
                                         
                                         .slider-height {
-                                            background-image: url(../img/gallery/water-1330252_1280.jpg);
+                                            background-image: url(../img/gallery/freeimg_47841037freejpg850.jpg);
                                             min-height: 2px;
                                             background-repeat: no-repeat;
                                             background-position: center center;
@@ -2704,8 +2707,8 @@
                                         }
                                         
                                         .slider-height2 {
-                                            background-image: url(../img/gallery/water-1330252_1280.jpg);
-                                            min-height: 390px;
+                                            background-image: url(../img/gallery/footer_bg.jpg);
+                                            min-height: 400px;
                                             background-repeat: no-repeat;
                                             background-size: cover;
                                         }
@@ -2720,7 +2723,7 @@
                                             font-size: 70px;
                                             font-weight: bolder;
                                             margin-bottom: 14px;
-                                            color: #f7f3f2 margin-bottom: 29px;
+                                            color: #f73707 margin-bottom: 29px;
                                         }
                                         
                                         @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2770,7 +2773,7 @@
                                         }
                                         
                                         .slider-area .hero__caption p {
-                                            color: #fdfdf9 margin-bottom: 42px;
+                                            color: #f20505 margin-bottom: 42px;
                                         }
                                         
                                         .hero-overly {
@@ -2797,6 +2800,7 @@
                                             font-weight: 900;
                                             text-transform: capitalize;
                                             margin-bottom: 15px;
+                                            color: #e1ebf7;
                                         }
                                         
                                         @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -2818,7 +2822,7 @@
                                         }
                                         
                                         .slider-area .hero-cap .breadcrumb a {
-                                            color: #ec5b53;
+                                            color: #f40f07;
                                             font-size: 18px;
                                             text-transform: capitalize;
                                         }
@@ -2859,7 +2863,7 @@
                                         
                                         .about-area .about-caption h3 {
                                             font-size: 30px;
-                                            color: #000a2d;
+                                            color: #0a0a0a;
                                             font-weight: 700;
                                             margin-bottom: 35px;
                                             line-height: 1.5;
@@ -3143,7 +3147,7 @@
                                         }
                                         
                                         .wantToWork-area {
-                                            background-image: url(../img/gallery/water-1330252_1280.jpg);
+                                            background-image: url(../img/gallery/footer_bg.jpg);
                                             background-size: cover;
                                             background-repeat: no-repeat;
                                         }
@@ -3360,14 +3364,14 @@
                                         }
                                         
                                         .categories-area .single-cat .cat-icon span {
-                                            color: #ec5b53;
+                                            color: #0c0c0c;
                                             font-size: 50px;
                                             margin-bottom: 30px;
                                             display: block;
                                             margin-bottom: 50px;
                                             width: 100px;
                                             height: 100px;
-                                            background: #fff4f4;
+                                            background: #eeafa3;
                                             line-height: 100px;
                                             text-align: center;
                                             border-radius: 50px;
@@ -3494,7 +3498,7 @@
                                         }
                                         
                                         .footer-area .footer-bottom .footer-copy-right p {
-                                            color: #393a50;
+                                            color: #f6f6f9;
                                             font-weight: 300;
                                             font-size: 16px;
                                             line-height: 2;
@@ -3577,11 +3581,11 @@
                                         }
                                         
                                         .latest-blog-area .blog-wrapper {
-                                            border: 1px solid #f0f0f0;
+                                            border: 1px solid #181717;
                                             border-radius: 5px;
                                             padding: 50px 40px;
                                             position: relative;
-                                            background: #fff;
+                                            background: rgb(245, 240, 240);
                                         }
                                         
                                         .latest-blog-area .blog-wrapper .blog-inner .blog-top {
@@ -3606,9 +3610,9 @@
                                         }
                                         
                                         .latest-blog-area .blog-wrapper .blog-inner .blog-top .comment-person span {
-                                            color: #57667e;
+                                            color: #dd3101;
                                             font-weight: 300;
-                                            font-size: 14px;
+                                            font-size: px;
                                         }
                                         
                                         .blog-active button {
@@ -4296,7 +4300,7 @@
                                         .blog_right_sidebar .post_category_widget .cat-list li a {
                                             font-size: 14px;
                                             line-height: 20px;
-                                            color: #888888;
+                                            color: #0a0a0a;
                                         }
                                         
                                         .blog_right_sidebar .post_category_widget .cat-list li a p {
@@ -4868,7 +4872,7 @@
                                         }
                                         
                                         .contact-info .media-body p {
-                                            color: #8a8a8a;
+                                            color: #0e0d0d;
                                         }
                                         
                                         .contact-title {
@@ -4886,7 +4890,7 @@
                                         }
                                         
                                         .form-contact .form-control {
-                                            border: 1px solid #e5e6e9;
+                                            border: 1px solid #f84d03;
                                             border-radius: 0px;
                                             height: 48px;
                                             padding-left: 18px;
@@ -4901,7 +4905,7 @@
                                         
                                         .form-contact .form-control::placeholder {
                                             font-weight: 300;
-                                            color: #999999;
+                                            color: #0f0f0f;
                                         }
                                         
                                         .form-contact textarea {
